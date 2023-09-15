@@ -1,5 +1,5 @@
 # kube-mancer
-A Jenkins shared library to render dynamic pod agents templates for Kubernetes cloud 
+A Jenkins [shared library](https://www.jenkins.io/doc/book/pipeline/shared-libraries/) to render dynamic pod templates that used as agents for Kubernetes cloud in a controller 
 
 This project was developed primarily for my personal learning. It takes inspiration from [liejuntao001/jenkins-k8sagent-lib](https://github.com/liejuntao001/jenkins-k8sagent-lib.git).
 
